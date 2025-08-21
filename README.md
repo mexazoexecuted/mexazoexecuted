@@ -1,4 +1,4 @@
-# Hey There! I'm [XhenzoSec](https://github.com/XhenzoSec) 👋
+# Hey There! I'm [MexazoExecuted](https://github.com/mexazoexecuted) 👋
 
 **I'm a passionate developer with expertise in various programming languages and technologies. I enjoy creating innovative solutions and sharing my knowledge with the community. Welcome to my GitHub profile!**
 
@@ -18,10 +18,10 @@
 ## 🌟 Popularity & Views
 
 <div align="center">
-    <img style="border-radius: 25px;" src="https://api.visitorbadge.io/api/VisitorHit?user=XhenzoSec&repo=xhenzo&countColor=%237B1E7A">
+    <img style="border-radius: 25px;" src="https://api.visitorbadge.io/api/VisitorHit?user=mexazoexecuted&repo=mexazoexecuted&countColor=%237B1E7A">
 </div>
 
-
-<div align="center">
-    <img style="border-radius: 25px;" src="https://i.ibb.co.com/qLZ7W9MT/Picsart-25-04-18-21-54-28-031.png">
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mexazoexecuted&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mexazoexecuted&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mexazoexecuted&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
